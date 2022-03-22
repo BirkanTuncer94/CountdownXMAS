@@ -1,0 +1,41 @@
+body {
+  background-image: url("xmas.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vh;
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#general-div {
+  margin-top: 100px;
+  height: 100px;
+  text-align: center;
+}
+.time {
+  text-align: center;
+  display: inline-block;
+  width: 175px;
+  border-radius: 20px;
+}
+.info {
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  width: 175px;
+  opacity: 0.8;
+}
+#month {
+  background-color: white;
+}
+#day {
+  background-color: white;
+}
+#hour {
+  background-color: white;
+}
+#minute {
+  background-color: white;
+}
+#second {
+  background-color: white;
+}
